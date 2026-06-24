@@ -75,7 +75,7 @@ npm install
 npm install robotjs
 ```
 
-> **Note:** Without `robotjs`, the server will log key events to the console instead of simulating them. This is useful for debugging.
+> **Note:** Without `robotjs`, the server will log key events to  console instead of simulating them. This is useful for debugging.
 
 <details>
 <summary><b>⚠️ Troubleshooting robotjs installation</b></summary>
