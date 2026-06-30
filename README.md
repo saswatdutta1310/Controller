@@ -273,7 +273,7 @@ Controller/
 
 | Problem | Solution |
 |---|---|
-| **Phone can't connect** | Ensure both devices are on the same Wi-Fi. Allow Node.js through your firewall on port `3000`. |
+| **Phone can't connect** | Ensure both devices are on same Wi-Fi. Allow Node.js through your firewall on port `3000`. |
 | **Keys not registering** | Install `robotjs` and run the server as Administrator (Windows) or with `sudo` (Linux). |
 | **High latency** | Switch to 5GHz Wi-Fi. Close background apps on your phone. |
 | **QR code doesn't work** | Try manually entering `http://YOUR_LAPTOP_IP:3000` in your phone browser. |
